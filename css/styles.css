@@ -872,7 +872,7 @@ body {
 
 .modal-check-text {
     font-size: 14px;
-    line-height: calc(24/14);
+    line-height: 1.71;
     letter-spacing: 0.03em;
     color: var(--font-two-color);
     display: flex;
